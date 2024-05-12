@@ -1,6 +1,3 @@
-## DATE: 22.03.2024
-## EXPERIMENT: 05
-
 # Ex05-Implementation-of-Logistic-Regression-Using-Gradient-Descent
 
 ## AIM:
